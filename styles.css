@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.pragraph1, .pragraph3 {
+p.pragraph1, p.pragraph3 {
 	background: #eee;
 	color: #00f;
 }
